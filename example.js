@@ -1,10 +1,7 @@
 class MyExtension {
   getInfo() {
     return {
-      id: 'myextensionexample',
-
-      // `name` is what the user sees in the toolbox
-      // It can be changed without breaking projects.
+      id: 'momos'
       name: 'My Extension',
 
       blocks: [
